@@ -1,0 +1,70 @@
+		.clor {
+			background-color: #6d0379;
+			border-color: #6d0379;
+			border-radius: 0;
+		}
+		
+		.navbar-default .navbar-nav>li>a {
+			color: white;
+		}
+		
+		.navbar-default .navbar-nav>.active>a,
+		.navbar-default .navbar-nav>.active>a:focus,
+		.navbar-default .navbar-nav>.active>a:hover {
+			color: white;
+			background-color: #4c0777;
+		}
+		
+		
+		
+		.nav-pills>li.active>a,
+		.nav-pills>li.active>a:focus,
+		.nav-pills>li.active>a:hover {
+			color: #f5f5f5;
+			background-color: #4c0777;
+			margin-top: 10px;
+		}
+		
+		a {
+			color: white;
+			text-decoration: none;
+		}
+
+		
+		.dash {
+			color: white;
+			margin-left: 50px;
+			font-size: 18px;
+			position: absolute;
+			top: 12px;
+		}
+		
+		.nav-pills>li>a {
+			border-radius: 4px;
+			margin-top: 10px;
+			float:left;
+		}
+		
+		.navbar-default .navbar-brand {
+			color: #eee;
+		}
+		.click{
+			border: 2px solid red;
+			border-radius: 2em;
+			padding: 5px;
+			background-color: red;
+		}
+		.datHover:hover .click{
+			color: white;
+		}
+		.pullRight{
+			float: right;
+			margin-left: 10px;
+		}
+		.ticon{
+			color: red;
+		}
+		.glyphicon{
+			position: relative;
+			top: 3px;
+		}
